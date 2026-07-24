@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Deploy_File_Web logo" width="120">
+  <img src="https://dragon.online-convert.com/id/download-file/031fa6ab-29ef-4d0c-88ba-96b605181ffd/842510a0-dbf0-4c0a-a86b-cb6aef4a1e58" alt="Deploy_File_Web logo" width="120">
 </p>
 
 # Deploy_File_Web
